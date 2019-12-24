@@ -1,0 +1,72 @@
+TCP/IP was an outcome of research in ARPANET, a United States Department of Defense (DoD) project and hence sometimes known as the ‘DoD model’. TCP/IP is also commonly known as the ‘public networking model’, as the Internet Engineering Task Force (IETF) maintains the protocol with the involvement of representatives from various networking companies for evolution of TCP/IP standards. The Internet is built on TCP/IP providing connectivity between heterogeneous physical networks and protocols.
+
+In order to avoid congestion, a network is generally broken down into smaller segments using networking devices called bridges, switches, and routers.
+
+These networking devices look only into the origin, destination, and control information related to the data in transit so as to enable its effective delivery to the destination.
+
+A network is generally gauged by three major criteria – performance, reliability, and security . 
+
+The performance of a network is dependent on a number of factors, such as the number of nodes connected to the network, the bandwidth of the transmission medium, the protocol used, the software overlay, and the amount of memory and processing capability of the networking hardware and the nodes.
+
+ Transit time and response time are the two parameters used to measure the performance of the network. Transit time is the amount of time a message spends in the network after its transmission from the source until it reaches the destination. Response time is the total time between sending a query through the network and receiving its response. 
+
+The data transmission uses the physical layer of the OSI model, the network devices operate at the data link layer and network layer, and the applications use the session layer, presentation layer, and application layer of the OSI model.
+
+In a star topology, the network nodes have a point‐to‐point connection with the central hub. In a bus topology, also known as a line network, each network node is connected to a single cable. In a ring topology, the network nodes are set up in a circular fashion in which the data transmission takes place around a ring in one direction and each neighboring node, either to the left or to the right, works as a repeater in order to maintain the strength of the signal as it is transmitted in a loop. This topology is also known as a loop network. In a mesh network, each node is connected point‐to‐point with all other nodes in the network. When every node is connected to all the other nodes in the network, it is known as a complete mesh. When some of the links in a complete mesh network are removed to reduce redundancy, this leads to the creation of a partial mesh.
+
+A network is also classified according to the geographical spread of the nodes. Based on size, the classical types of network are typically the local area network (LAN), the metropolitan area network (MAN), and the wide area network (WAN).
+
+International Organization for Standardization (ISO),
+American National Standards Institute (ANSI),
+Institute of Electrical and Electronics Engineers (IEEE),
+Electronic Industries Alliance (EIA),
+Telecommunications Industry Association (TIA),
+International Telecommunication Union – Telecommunication Standardization Sector (ITU‐T),
+European Telecommunications Standards Institute (ETSI).
+
+a few Internet standards organizations [7] have also taken responsibility to develop policies, standards, and architecture related to the Internet. Some of these organizations are as follows:
+
+Internet Society (ISOC),
+Internet Architecture Board (IAB),
+Internet Engineering Task Force (IETF),
+Internet Research Task Force (IRTF),
+Internet Engineering Steering Group (IESG),
+Internet Research Steering Group (IRSG).
+
+Application (layer 7). This layer is application specific and provides services such as file transfers, email, and other network services and supports end‐user processes.
+
+Presentation (layer 6). This layer provides the representation of data by application to network format translation, and vice versa. This layer is also responsible for encryption and decryption.
+
+Session (layer 5). This layer is responsible for establishing, managing, and terminating the network connections between applications.
+
+Transport (layer 4). This layer provides the effective and fault‐free transfer of data between end systems and is responsible for error recovery and control of flow so as to ensure complete data transfer.
+
+Network (layer 3). This layer provides the switching and routing techniques to transmit the data from source node to destination node in a network.
+
+Data link (layer 2). At this layer the encoding and decoding of data packets into bits take place.
+
+Physical (layer 1). The bit stream, in the form of electrical impulse, light or radio waves, is transmitted through the network. It provides a hardware means of sending and receiving data on a carrier.
+
+
+Layer	                          Protocols
+Application (layer 7)	        COPS, FANP, FTP, HTTP, IPDC, IMAP4, IRC, ISAKMP, NTP, POP3, RLOGIN,                                 RTSP, SCTP, SLP, SMTP, SNMP, TELNET, WCCP
+
+Presentation (layer 6)	        BGP4, EGP, HSRP, EIGRP, TGRP, NARP, NHRP
+
+Session (layer 5)	        BGMP, DIS, DNS, ISAKMP/IKE, ISCSI, LDAP, MZAP, NetBIOS/IP
+
+Transport (layer 4)	        ISTP, Mobile IP, RUDP, TALI, TCP, UDP, Van Jacobson, XOT
+
+Network (layer 3)	        DVMRP, ICMP, IGMP, IP, IPv6, MARS, PIM, RIP2, RSVP, VRRP
+
+Data link (layer 2)	        ARP/RARP, MPLS, PPP, FDDI, SLIP
+
+Physical (layer 1)	        ATMP, L2F, L2TP, PPTP
+
+
+Internet Protocol (IPv4/IPv6),
+Internet Control Message Protocol (ICMP),
+Internet Group Management Protocol (IGMP),
+Internet Protocol security (IPsec),
+Internetwork Packet Exchange (IPX),
+Routing Information Protocol (RIP).
