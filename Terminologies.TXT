@@ -1,0 +1,203 @@
+Abbreviations/Terminologies
+ANSI
+American National Standards Institute
+APNIC
+Asia‐Pacific Network Information Center
+ARP
+Address Resolution Protocol
+ARPANET
+Advanced Research Projects Agency Network
+ATM
+Asynchronous Transfer Mode
+ATMP
+Ascend Tunnel Management Protocol
+BAN
+Body Area Network
+BGMP
+Border Gateway Multicast Protocol
+CAN
+Campus Area Network
+CIDR
+Classless Interdomain Routing
+COPS
+Common Open Policy Service
+DIS
+Distributed Interactive Simulation
+DMZ
+Demilitarized Zone
+DNS
+Domain Name System
+DoD
+Department of Defense
+DQDB
+Distributed Queue Dual Bus
+DVMRP
+Distance Vector Multicast Routing Protocol
+EGP
+Exterior Gateway Protocol
+EIA
+Electronic Industries Alliance
+EIGRP
+Enhanced Interior Gateway Routing Protocol
+ETSI
+European Telecommunications Standards Institute
+FANP
+Flow Attribute Notification Protocol
+FDDI
+Fiber Distributed Data Interface
+FQDN
+Fully Qualified Domain Name
+FTP
+File Transfer Protocol
+HAN
+Home Area Network
+HSRP
+Hot Standby Router Protocol
+HTTP
+Hypertext Transfer Protocol
+IAB
+Internet Architecture Board
+IANA
+Internet Assigned Numbers Authority
+ICMP
+Internet Control Message Protocol
+IEEE
+Institute of Electrical and Electronics Engineers
+IESG
+Internet Engineering Steering Group
+IETF
+Internet Engineering Task Force
+IGMP
+Internet Group Management Protocol
+IMAP
+Internet Message Access Protocol
+IPDC
+Internet Protocol Device Control
+IPsec
+Internet Protocol security
+IPX
+Internetwork Packet Exchange
+IRC
+Internet Relay Chat
+IRTF
+Internet Research Task Force
+IRSG
+Internet Research Steering Group
+ISAKMP
+Internet Security Association and Key Management Protocol
+ISCSI
+Internet Small Computer Systems Interface
+ISO
+International Organization for Standardization
+ISOC
+Internet Society
+ISP
+Internet Service Provider
+ISTP
+Internet Signaling Transport Protocol
+I‐TCP
+Indirect TCP
+ITU‐T
+International Telecommunication Union – Telecommunication Standardization Sector
+L2F
+Layer 2 Forwarding
+L2TP
+Layer 2 Tunneling Protocol
+LAN
+Local Area Network
+LDAP
+Lightweight Directory Access Protocol
+MAC
+Media Access Control
+MAN
+Metropolitan Area Network
+MARS
+Multicast Address Resolution Server
+MPLS
+Multiprotocol Label Switching
+MSR
+Mobile Support Router
+MTBF
+Mean Time Between Failures
+MTU
+Maximum Transmission Unit
+MZAP
+Multicast‐Scope Zone Announcement Protocol
+NAN
+Near‐me Network
+NARP
+NBMA Address Resolution Protocol
+NAT
+Network Address Translation
+NFN
+Near Field Network
+NHRP
+Next Hop Resolution Protocol
+NTP
+Network Time Protocol
+OFDM
+Orthogonal Frequency‐Division Multiplexing
+OSI
+Open System Interconnection
+OSPF
+Open Shortest Path First
+OTN
+Optical Transport Network
+PAN
+Personal Area Network
+PIM
+Protocol Independent Multicast
+POP
+Post Office Protocol
+PPP
+Point‐to‐Point Protocol
+PPTP
+Point‐to‐Point Tunneling Protocol
+QoS
+Quality of Service
+RIP
+Routing Information Protocol
+RSVP
+Resource Reservation Protocol
+RTSP
+Real‐Time Streaming Protocol
+RUDP
+Reliable User Datagram Protocol
+SAN
+Storage Area Network
+SCTP
+Stream Control Transmission Protocol
+SLP
+Service Location Protocol
+SLIP
+Serial Line Internet Protocol
+SMTP
+Simple Mail Transfer Protocol
+SNMP
+Simple Network Management Protocol
+SyAN
+System Area Network
+TALI
+Transport Adapter Layer Interface
+TCP/IP
+Transmission Control Protocol/Internet Protocol
+TGRP
+Trunk Group Routing Protocol
+TIA
+Telecommunications Industry Association
+TTL
+Time To Live
+UDP
+User Datagram Protocol
+VLAN
+Virtual LAN
+VLSM
+Variable‐Length Subnet Mask
+VRRP
+Virtual Router Redundancy Protocol
+WAN
+Wide Area Network
+WCCP
+Web Cache Communication Protocol
+XOT
+X.25 over TCP
